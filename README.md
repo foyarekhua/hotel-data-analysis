@@ -5,7 +5,7 @@ Develop a database to analyze and visualize hotel booking data.
 - Is our hotel revenue growing by year? It would be good to see the revenue by hotel
 - should we increase our parking lot size
 - what trends can we see in the data
-## Summary (view the data in other files of this repo)
+## Summary (The full report is in this repository. It is called hotel_data_final_report)
 1. Take the data from excel and import it to mysql
 2. There are tables of hotel data by year. Create a database and join those tables using SQL
 3. Connect Power BI to the database
